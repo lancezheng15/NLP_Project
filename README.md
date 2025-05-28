@@ -1,4 +1,4 @@
-# Speech Analysis and Summarization Pipeline 🎧📝
+# Speech Analysis and Summarization Pipeline
 
 A comprehensive natural language processing pipeline that combines speech recognition, entity analysis, and text summarization. This project was developed as part of a Text Analytics course, focusing on processing and analyzing audio content using state-of-the-art ML models.
 
@@ -15,7 +15,6 @@ The pipeline was initially developed and tested using the LibriSpeech dataset, a
 ## Project Structure
 
 ```
-final_may25_1627/
 ├── app.py                    # Streamlit web interface
 ├── transcribe_audio.py       # Speech recognition module
 ├── entity_analyzer.py        # Named entity recognition module
@@ -145,4 +144,4 @@ short_summary, long_summary = summarizer.generate_summaries(text)
 
 ## Contributors
 
-[Your Name/Team Members]
+Yunze Wei, Lanfeng Zheng, Keyu Shen, Bo Zhao, Kaiyuan Deng
